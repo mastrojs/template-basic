@@ -1,7 +1,4 @@
-# Mastro Template Basic
-
-This is a basic JavaScript template for [Mastro](https://mastrojs.github.io). If you're not already viewing this on github.dev, [open it](https://github.dev/mastrojs/template-basic).
-
+This is the basic JavaScript template for [Mastro](https://mastrojs.github.io). If you're not already viewing this on github.dev, [open it](https://github.dev/mastrojs/template-basic).
 
 ## One-time setup
 
@@ -15,7 +12,9 @@ This is a basic JavaScript template for [Mastro](https://mastrojs.github.io). If
 On your keyboard, hit `Ctrl-Shift-P` (Windows or Linux) or `Command-Shift-P` (Mac), type `mastro`, and when the _mastro: Preview and Generate Website_ item appears, hit enter.
 
 
-## Create your own repo
+## Next steps
+
+### Create your own repo
 
 While you can play around in the template repository, if you want to save your changes, you need to create your own copy of the repo:
 
@@ -24,6 +23,6 @@ While you can play around in the template repository, if you want to save your c
 3. Save your changes and [publish your website](https://mastrojs.github.io/guide/html/#publish-your-website)!
 
 
-## Help
+### Help
 
 For a step-by-step guide, see the [Mastro guide](https://mastrojs.github.io/guide/setup/).
