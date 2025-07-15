@@ -7,7 +7,7 @@ This is a basic JavaScript template for [Mastro](https://mastrojs.github.io). If
 
 1. Click **Install** in the small dialog in the bottom right that says "Do you want to install the recommended extensions from mastro and FAST for this repository?"
 2. Click **Trust Publishers & Install**
-3. Close the two tabs of the just installed extensions ([Mastro](https://marketplace.visualstudio.com/items?itemName=mastro.mastro-vscode-extension) and [FAST Tagged Template Literals](https://marketplace.visualstudio.com/items?itemName=ms-fast.fast-tagged-templates))
+3. Close the two tabs of the just installed extensions ([Mastro](https://marketplace.visualstudio.com/items?itemName=mastro.mastro-vscode-extension) and [FAST Tagged Template Literals](https://marketplace.visualstudio.com/items?itemName=ms-fast.fast-tagged-templates)) and switch back to the _Explorer_ view (the topmost icon in the activity bar on the left) to see the folders and files.
 
 
 ## Open the Mastro preview pane
