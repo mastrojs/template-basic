@@ -1,13 +1,13 @@
 # Mastro Template Basic
 
-This is a basic JavaScript template for [Mastro](https://mastrojs.github.io).
+This is a basic JavaScript template for [Mastro](https://mastrojs.github.io). If you're not already viewing this on github.dev, [open it](https://github.dev/mastrojs/template-basic).
+
 
 ## One-time setup
 
-Install the following two VS Code extensions. In the _Activity Bar_ on the left, click the _Extensions_ icon (looks like four blocks with one flying away).
-
-- Install [Mastro](https://marketplace.visualstudio.com/items?itemName=mastro.mastro-vscode-extension) by searching for `mastro` (it should be the first search result, the one with the picture of a cook) and click _Install_. Click _Trust Publisher & Install_ when prompted.
-- Install [FAST Tagged Template Literals](https://marketplace.visualstudio.com/items?itemName=ms-fast.fast-tagged-templates) by searching for `fast-tagged-templates`.
+1. Click **Install** in the small dialog in the bottom right that says "Do you want to install the recommended extensions from mastro and FAST for this repository?"
+2. Click **Trust Publishers & Install**
+3. Close the two tabs of the just installed extensions ([Mastro](https://marketplace.visualstudio.com/items?itemName=mastro.mastro-vscode-extension) and [FAST Tagged Template Literals](https://marketplace.visualstudio.com/items?itemName=ms-fast.fast-tagged-templates))
 
 
 ## Open the Mastro preview pane
