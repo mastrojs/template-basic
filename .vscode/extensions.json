@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "mastro.mastro-vscode-extension"
+        "mastro.mastro-vscode-extension",
+        "ms-fast.fast-tagged-templates"
     ]
 }
