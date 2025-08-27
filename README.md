@@ -17,10 +17,10 @@ On your keyboard, hit `Ctrl-Shift-P` (Windows or Linux) or `Command-Shift-P` (Ma
 While you can play around in the template repository, if you want to save your changes, you need to create your own copy of the repo – if you haven't done so already.
 
 1. Click the green button **Use this template** on the top right of [this template's GitHub repo](https://github.com/mastrojs/template-basic), select **Create a new repository** and choose a name for your project.
-2. On your repo's GitHub page, press `.` on your keyboard to again open _Visual Studio Code for the Web_. If you already know HTML and CSS, you can skip ahead to [this chapter in the guide](https://mastrojs.github.io/guide/multiple-pages-with-shared-components/).
-3. Save your changes and [publish your website](https://mastrojs.github.io/guide/html/#publish-your-website)!
+2. On your repo's GitHub page, press `.` on your keyboard to again open _Visual Studio Code for the Web_. If you already know HTML and CSS, you can skip ahead to [this chapter in the guide](https://mastrojs.github.io/guide/server-side-components-and-routing/).
+3. Save your changes and [publish your website](https://mastrojs.github.io/guide/publish-website/)!
 
 
 ### Help
 
-For a step-by-step guide, see the [Mastro guide](https://mastrojs.github.io/guide/setup/).
+For a step-by-step guide, see the [Mastro guide](https://mastrojs.github.io/guide/).
