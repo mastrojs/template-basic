@@ -1,4 +1,4 @@
-import { html, htmlToResponse } from "mastro";
+import { html, htmlToResponse } from "@mastrojs/mastro";
 import { Layout } from "../components/Layout.js";
 
 export const GET = () =>

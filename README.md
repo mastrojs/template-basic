@@ -1,4 +1,4 @@
-This is the basic JavaScript template for [Mastro](https://mastrojs.github.io). If you're not already viewing this on github.dev, [open it](https://github.dev/mastrojs/template-basic).
+This is the basic JavaScript template for [Mastro](https://mastrojs.github.io). If you're not already viewing this on github.dev, [open it in your browser](https://github.dev/mastrojs/template-basic).
 
 ## One-time setup
 
@@ -11,6 +11,11 @@ This is the basic JavaScript template for [Mastro](https://mastrojs.github.io). 
 
 On your keyboard, hit `Ctrl-Shift-P` (Windows or Linux) or `Command-Shift-P` (Mac), type `mastro`, and when the _mastro: Preview and Generate Website_ item appears, hit enter.
 
+<details>
+<summary>Using Firefox?</summary>
+
+In Firefox, this keyboard shortcut unfortunately opens a new incognito window. Instead, you need to hit `Ctrl-P` (Windows or Linux) or `Command-P` (Mac) and type `>mastro` (note the `>`).
+</details>
 
 ## Next steps
 
