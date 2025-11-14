@@ -4,7 +4,7 @@ This is the basic JavaScript template for [Mastro](https://mastrojs.github.io). 
 
 1. Click **Install** in the small dialog in the bottom right that says "Do you want to install the recommended extensions from mastro and FAST for this repository?"
 2. Click **Trust Publishers & Install**
-3. Close the two tabs of the just installed extensions ([Mastro](https://marketplace.visualstudio.com/items?itemName=mastro.mastro-vscode-extension) and [FAST Tagged Template Literals](https://marketplace.visualstudio.com/items?itemName=ms-fast.fast-tagged-templates)) and switch back to the _Explorer_ view (the topmost icon in the activity bar on the left) to see the folders and files.
+3. Close the two tabs of the just installed extensions ([Mastro](https://marketplace.visualstudio.com/items?itemName=mastro.mastro-vscode-extension) and [FAST Tagged Template Literals](https://marketplace.visualstudio.com/items?itemName=ms-fast.fast-tagged-templates)) and switch back to the _Explorer_ view by clicking the topmost icon ⧉ in the activity bar on the left. Now you should see your files and folders again.
 
 
 ## Open the Mastro preview pane
@@ -17,15 +17,25 @@ On your keyboard, hit `Ctrl-Shift-P` (Windows or Linux) or `Command-Shift-P` (Ma
 In Firefox, this keyboard shortcut unfortunately opens a new incognito window. Instead, you need to hit `Ctrl-P` (Windows or Linux) or `Command-P` (Mac) and type `>mastro` (note the `>`).
 </details>
 
-## Next steps
+Try to remember how to open the Mastro preview pane, as you might sometimes close it.
+
+
+## Create your own repository
 
 While you can play around in the template repository, if you want to save your changes, you need to create your own copy of the repo – if you haven't done so already.
 
-1. Click the green button **Use this template** on the top right of [this template's GitHub repo](https://github.com/mastrojs/template-basic), select **Create a new repository** and choose a name for your project.
-2. On your repo's GitHub page, press `.` on your keyboard to again open _Visual Studio Code for the Web_. If you already know HTML and CSS, you can skip ahead to [this chapter in the guide](https://mastrojs.github.io/guide/server-side-components-and-routing/).
-3. Save your changes and [publish your website](https://mastrojs.github.io/guide/publish-website/)!
+1. Open [this template's GitHub repo](https://github.com/mastrojs/template-basic)
+2. Click the green button **Use this template** on the top right, select **Create a new repository** and choose a name for your project. (On the free tier, your repo needs to be public.)
+2. On your repo's GitHub page, press `.` on your keyboard to again open _Visual Studio Code for the Web_.
 
 
-### Help
+## Next Steps
 
-For a step-by-step guide, see the [Mastro guide](https://mastrojs.github.io/guide/).
+Congratulations! If the above worked, you can skip the "Setup" chapter of the [Mastro guide](https://mastrojs.github.io/guide/) and continue with learning [HTML](https://mastrojs.github.io/guide/html/), [CSS](https://mastrojs.github.io/guide/css/), or [JavaScript](https://mastrojs.github.io/guide/javascript/).
+Or if you know all that already, skip ahead even further to one of the following chapters:
+
+- [Publish your website to GitHub Pages](https://mastrojs.github.io/guide/publish-website/)
+- [Client-side vs server-side JavaScript, SPA vs MPA](https://mastrojs.github.io/guide/client-side-vs-server-side-javascript-static-vs-ondemand-spa-vs-mpa/)
+- [Mastro components and routing](https://mastrojs.github.io/guide/server-side-components-and-routing/)
+
+If instead of following the guide, you just want a condensed overview of the Mastro web framework and static site generator, then head straight for the [Mastro Docs](https://mastrojs.github.io/docs/).
